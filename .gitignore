@@ -1,0 +1,10 @@
+__pycache__/
+*.pdf
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.tex
+HW2.py
